@@ -1,3 +1,7 @@
+# Remix Playwright
+
+A testing-ready template, that that integrates E2E and Unit testing with Playwright, Vitest and Testing Library.
+
 ## Features
 
 - End-to-End testing with [Playwright.](https://playwright.dev)
