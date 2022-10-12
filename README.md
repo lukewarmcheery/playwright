@@ -1,6 +1,14 @@
-# Remix Playwright
+![GitHub-Mark-Light](https://raw.githubusercontent.com/dev-xo/dev-xo/main/playwright-stack/assets/light-logo.png#gh-light-mode-only)
+![GitHub-Mark-Dark ](https://raw.githubusercontent.com/dev-xo/dev-xo/main/playwright-stack/assets/dark-logo.png#gh-dark-mode-only)
 
-A testing-ready template, that that integrates E2E and Unit testing with Playwright, Vitest and Testing Library.
+<p align="center">
+  <p align="center">
+    <a href="https://twitter.com/DanielKanem">Twitter</a>
+    <br/>
+    <br/>
+    A testing-ready template, that that integrates E2E and Unit testing with Playwright, Vitest and Testing Library.
+  </p>
+</p>
 
 ## Features
 
