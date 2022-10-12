@@ -2,12 +2,7 @@
 ![GitHub-Mark-Dark ](https://raw.githubusercontent.com/dev-xo/dev-xo/main/playwright-stack/assets/dark-logo.png#gh-dark-mode-only)
 
 <p align="center">
-  <p align="center">
-    <a href="https://twitter.com/DanielKanem">Twitter</a>
-    <br/>
-    <br/>
-    A testing-ready template, that that integrates E2E and Unit testing with Playwright, Vitest and Testing Library.
-  </p>
+  A testing-ready template, that that integrates E2E and Unit testing with Playwright, Vitest and Testing Library.
 </p>
 
 ## Features
