@@ -15,7 +15,6 @@
 - Linting with [ESLint.](https://eslint.org/)
 - Code formatting with [Prettier.](https://prettier.io/)
 - Static Types with [TypeScript.](https://www.typescriptlang.org/)
-- Support for Javascript developers with continuous updates over time based on `remix.init`.
 
 Learn more about [Remix Stacks](https://remix.run/stacks).
 
