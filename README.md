@@ -30,8 +30,6 @@ npx create-remix@latest --template remix-stacks/playwright
 npm run dev
 ```
 
-> Notes: Cloning the repository instead of initializing it with the above commands, will result in a inappropriate experience. This template uses `remix.init` to configure itself and prepare your environment.
-
 ## GitHub Actions
 
 We use GitHub Actions for continuous integration and deployment.<br/><br/>
