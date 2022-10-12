@@ -67,4 +67,4 @@ This template has pre-configured prettier settings on `.package-json`. Feel free
 ## Support
 
 If you found the template useful, support it with a [Star ⭐](https://github.com/dev-xo/stripe-stack)<br />
-It helps the repository grow and gives me motivation to keep working on it. Thanks you!
+It helps the repository grow and gives us motivation to keep working on it. Thanks you!
