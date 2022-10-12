@@ -1,0 +1,26 @@
+# We don't need lockfiles in our stacks,
+# as people could use a different package manager.
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+pnpm-lock.yml
+
+# Editor Configs.
+.idea
+.vscode
+.DS_Store
+
+node_modules
+
+/.cache
+/build
+/public/build
+.env
+
+# Tailwind CSS.
+/app/styles/tailwind.css
+
+# Tests.
+/test-results/
+/playwright-report/
+/playwright/.cache/
